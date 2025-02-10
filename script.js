@@ -189,7 +189,8 @@ function showSurprise() {
             <div class="text-6xl text-center mb-4 animate__animated animate__bounceIn">🎁</div>
             <h3 class="text-4xl font-great text-red-500 mb-4 neon-text text-center animate__animated animate__slideInDown">Sürpriz!</h3>
             <p class="text-2xl text-gray-700 mb-8 font-dancing text-center animate__animated animate__fadeIn animate__delay-1s">
-                Seni Çok Seviyorum! 💝
+                Seni Çok Seviyorum! sürprizim buydu💝
+                https://open.spotify.com/intl-tr/track/6BvuAPDJA7ysuMoJfunKgc
             </p>
             
             <div class="grid grid-cols-2 gap-6 mb-8">
